@@ -42,4 +42,4 @@ In practice that means I tend to:
 
 ---
 
-*Outside the terminal: top-rope climber, currently working through 5.11c. Same problem-solving loop, different walls.*
+*Outside the terminal: top-rope climber, currently exploring 5.12a. Same problem-solving loop, different walls.*
