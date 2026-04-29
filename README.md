@@ -1,5 +1,3 @@
-# Ryan Qin
-
 **Forward-deployed and AI product engineering. CS + Psychology. I build for the seam where systems meet the people using them.**
 
 Most of my recent work — including a 0-to-1 generative AI video platform — is closed source, so this profile leans on what I build outside of the day job. The repos here are working drafts, not finished products; the point is to show how I think when I have to figure something out from scratch.
@@ -20,7 +18,7 @@ In practice that means I tend to:
 
 - **Local AI agent deployment.** Running Gemma 4 (E2B / E4B) on local hardware and building a small agent framework around it — see [`The-Gemma-4-Good-Hackathon`](https://github.com/ryanqin/The-Gemma-4-Good-Hackathon). The hackathon is a forcing function; the framework is the point.
 - **Reverse-engineering production agent codebases.** Reading [openclaw](https://github.com/openclaw/openclaw) and [hermes-agent](https://github.com/NousResearch/hermes-agent) end to end to understand how real coding agents handle planning, tool use, and context. Notes live in Obsidian.
-- **Knowledge management as personal infra.** A long-running Obsidian vault organized around MOCs, with Git sync underneath. Habits and dashboards built on top of it — see [`personal-dashboard`](https://github.com/ryanqin/personal-dashboard).
+- **Knowledge management as personal infra.** A long-running Obsidian vault organized around MOCs, with Git sync underneath. Habits and dashboards built on top of it — see [`dashboard-me`](https://github.com/ryanqin/dashboard-me).
 - **Personal data pipelines.** Wearable and health data piped through Python into local agents — quietly the most useful thing I've built for myself.
 
 ## Tech stack
