@@ -31,11 +31,6 @@ In practice that means I tend to:
 
 **Comfortable in** — system design, agent architecture, prompt and context engineering, the boring parts of shipping (logging, configs, deploy)
 
-## Reach me
-
-- Email — ryanqin10@gmail.com
-- GitHub — [@ryanqin](https://github.com/ryanqin)
-
 ---
 
 *Outside the terminal: top-rope climber, currently exploring 5.12a. Same problem-solving loop, different walls.*
