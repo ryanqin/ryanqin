@@ -1,6 +1,6 @@
-**Forward-deployed and AI product engineering. CS + Psychology. I build for the seam where systems meet the people using them.**
+**These repos are working drafts, not finished products. The point is to show how I think when I have to figure something out from scratch.**
 
-Most of my recent work — including a 0-to-1 generative AI video platform — is closed source, so this profile leans on what I build outside of the day job. The repos here are working drafts, not finished products; the point is to show how I think when I have to figure something out from scratch.
+Most of my recent work — including a 0-to-1 generative AI video platform — is closed source, so this profile leans on what I build outside of the day job.
 
 ---
 
