@@ -16,7 +16,7 @@ In practice that means I tend to:
 
 ## What I'm exploring
 
-- **Local AI agent deployment.** Running Gemma 4 (E2B / E4B) on local hardware and building a small agent framework around it — see [`The-Gemma-4-Good-Hackathon`](https://github.com/ryanqin/The-Gemma-4-Good-Hackathon). The hackathon is a forcing function; the framework is the point.
+- **Local AI agent deployment.** Running Gemma 4 (E2B / E4B) on local hardware and building a small agent framework around it — see [`tideline`](https://github.com/ryanqin/tideline), an on-device translation agent where language learning emerges as a passive byproduct. The hackathon driving its first milestone is a forcing function; the framework is the point.
 - **Reverse-engineering production agent codebases.** Reading [openclaw](https://github.com/openclaw/openclaw) and [hermes-agent](https://github.com/NousResearch/hermes-agent) end to end to understand how real coding agents handle planning, tool use, and context. Notes live in Obsidian.
 - **Knowledge management as personal infra.** A long-running Obsidian vault organized around MOCs, with Git sync underneath. Habits and dashboards built on top of it — see [`dashboard-me`](https://github.com/ryanqin/dashboard-me).
 - **Personal data pipelines.** Wearable and health data piped through Python into local agents — quietly the most useful thing I've built for myself.
