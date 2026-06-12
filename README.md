@@ -19,7 +19,7 @@ then keep using.
   cost, with a jump back to the exact terminal. Built because I never clear
   sessions and wanted that history legible at a glance.
 - **Personal infra** — [dashboard-me](https://github.com/ryanqin/dashboard-me)
-  (Mini Habits dashboard; 苦功夫，每一分钟都算数),
+  (Mini Habits dashboard — every minute counts),
   [health-detector](https://github.com/ryanqin/health-detector) (a
   stress-recovery index on the Oura API). Small tools, real daily use.
 - **[job-hunter](https://github.com/ryanqin/job-hunter)** — a CLI that runs
