@@ -18,6 +18,12 @@ then keep using.
   Click a crab for that session's audit timeline — what changed, what it
   cost, with a jump back to the exact terminal. Built because I never clear
   sessions and wanted that history legible at a glance.
+- **[switchboard](https://github.com/ryanqin/switchboard)** — a demo
+  customer-support ops console: one inbox across chat, email, and phone
+  transcripts, an AI assist layer for agents (summary, intent, grounded
+  reply drafts), and an ops dashboard where every metric's definition
+  ships next to the number — plus an eval that scores the exact outputs
+  the product serves.
 - **Personal infra** — [dashboard-me](https://github.com/ryanqin/dashboard-me)
   (Mini Habits dashboard — every minute counts),
   [health-detector](https://github.com/ryanqin/health-detector) (a
