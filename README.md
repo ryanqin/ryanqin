@@ -18,10 +18,6 @@ then keep using.
   Click a crab for that session's audit timeline — what changed, what it
   cost, with a jump back to the exact terminal. Built because I never clear
   sessions and wanted that history legible at a glance.
-- **[my-library](https://github.com/ryanqin/my-library)** — technical
-  subjects rewritten as novellas: inference engineering, cloud + AI
-  deployment, agent architecture. Writing a story about a system is my
-  test for whether I actually understand it.
 - **Personal infra** — [dashboard-me](https://github.com/ryanqin/dashboard-me)
   (Mini Habits dashboard; 苦功夫，每一分钟都算数),
   [health-detector](https://github.com/ryanqin/health-detector) (a
@@ -42,11 +38,6 @@ then keep using.
   episodes — behavioral signatures, local arenas, red-teaming my own
   conclusions before acting on them. The recurring lesson: the bottleneck
   is rarely a better bot, it's a referee you can trust.
-- **Production agent codebases, read end to end** — openclaw and
-  hermes-agent — to see how real coding agents handle planning, tool use,
-  and context. Notes accumulate in a long-running Obsidian vault: MOCs on
-  top, Git sync underneath.
-
 ## How I build
 
 I learn and design as a **mesh topology** rather than a checklist: start
