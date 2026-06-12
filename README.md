@@ -18,11 +18,6 @@ then keep using.
   Click a crab for that session's audit timeline — what changed, what it
   cost, with a jump back to the exact terminal. Built because I never clear
   sessions and wanted that history legible at a glance.
-- **[greenroom-case-study](https://github.com/ryanqin/greenroom-case-study)** —
-  an applied AI PM case study: canonical deal extraction for music-venue
-  settlements. A design memo, a prompt + eval harness with hold-out
-  validation, and a working end-to-end slice — the method I default to
-  when a product question needs an evidence-backed answer.
 - **Personal infra** — [dashboard-me](https://github.com/ryanqin/dashboard-me)
   (Mini Habits dashboard — every minute counts),
   [health-detector](https://github.com/ryanqin/health-detector) (a
