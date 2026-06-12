@@ -30,6 +30,23 @@ then keep using.
   a job search like an ops pipeline: log applications, store JDs, generate
   interview prep against my own resume.
 
+## What I'm exploring
+
+- **How much a small on-device model can actually carry.** Tideline runs
+  quantized Gemma 4 (E2B / E4B) on phone-class hardware, lately including
+  vision for photo translation. Working principle: engineering bears the
+  load, the model adds the finishing touch — a weak LLM decorates the
+  structure, it never holds it up.
+- **Replay forensics for game AI.** A Kaggle bot competition turned into
+  reverse-engineering winning strategies from hundreds of downloaded
+  episodes — behavioral signatures, local arenas, red-teaming my own
+  conclusions before acting on them. The recurring lesson: the bottleneck
+  is rarely a better bot, it's a referee you can trust.
+- **Production agent codebases, read end to end** — openclaw and
+  hermes-agent — to see how real coding agents handle planning, tool use,
+  and context. Notes accumulate in a long-running Obsidian vault: MOCs on
+  top, Git sync underneath.
+
 ## How I build
 
 I learn and design as a **mesh topology** rather than a checklist: start
