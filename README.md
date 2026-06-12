@@ -33,6 +33,11 @@ then keep using.
   vision for photo translation. Working principle: engineering bears the
   load, the model adds the finishing touch — a weak LLM decorates the
   structure, it never holds it up.
+- **What supervising a fleet of agents should feel like.** As more of my
+  work runs through coding agents, my own attention becomes the scarce
+  resource. CrabWatch is the testbed: ambient awareness on top — pixel
+  crabs, quiet by default, motion reserved for real signal — and a full
+  audit trail underneath for when I actually want to look.
 - **Replay forensics for game AI.** A Kaggle bot competition turned into
   reverse-engineering winning strategies from hundreds of downloaded
   episodes — behavioral signatures, local arenas, red-teaming my own
